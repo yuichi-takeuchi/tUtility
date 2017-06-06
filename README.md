@@ -23,8 +23,20 @@ How to install:
 4. Optional: Put PPT Help.ihf and SetWindowExt Help.ipf or their shortcuts into the Igor Help Files folder, which is normally located at My Documents\WaveMetrics\Igor Pro 6 User Files\Igor Help Files.
 5. Restart Igor Pro.
 
-How to use:
+How to initialize the control panel (tUtility GUI):
+1. For initialization, click "NewControlPanel" in tUtility of Menu. A GUI window named ControlPanel will appear. Global variables etc. are stored in root:Packages:YT:.
+2. The ControlPanel window can be minimized and recall by "DisplayControlPanel" in tUtility of Menu.
+3. The sorce code for callback functions for the control panel can be found in the GlobalProcedure.ipf, which can be called by "GlobalProcedure.ipf" in tUtility of Menu.
 
+How to use (principle):
+There are two tab groups on the control panel. The upper group includes "V&S (Variable & String)" tab and JW tab. 02-04 tabs are under constructions. The lower group includes "Gen (General)", "Edit", "Analy (Analysis)", "CC (Current Clamp)", "VCA (Voltage Clamp Analysis)", "TCA (Time Course Analysis)".
+The principle of usage is as follows:
+1. Specify target window(s) or target wave(s) in the SetVariable control in the V&S tab.
+2. Run a function by pressing a botton on the control panel.
+Examples:
+1. Set target window as "Graph0", and then press "RNtWin" button on the V&S tab. You can rename the Graph0 with prompt.
+2. Collect names of windows into the target window list by "tWin>L" button, and then press "DW/KL" button. You can kill the windown on the target window list.
+3. 
 
 
 Releases:
