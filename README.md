@@ -3,14 +3,19 @@ This procedure (tUtility) offers the GUI (control panel) for general purpose ana
 This is written by Yuichi Takeuchi PhD and mainly used for analyses and figure preparation of in vitro patch-clamp recordings.
 But it can be utilized for other analyses including in vivo intra- and extracellular recordings, calcium imagings etc.
 
+
 Claims to Yuichi Takeuchi PhD, Department of Physiology, University of Szeged, Hungary
+
 Email: yuichi-takeuchi@umin.net
 
 This code has been tested in Igor Pro version 6.3.7.2. for Windows and supposed to work in Igor Pro 6.1 or later.
 
 Dependency:
+
 Several functions depend on the following libraries.
+
 PPT.XOP (http://www.mpibpc.mpg.de/groups/neher/index.php?page=software)
+
 SetWindowExt.XOP (http://fermi.uchicago.edu/freeware/LoomisWood/SetWindowExt.shtml)
 
 How to install:
@@ -19,6 +24,8 @@ How to install:
 3. Optional: Put PPT.xop and SetWindowExt.xop or their shortcuts into the Igor Extensions folder, which is normally located at My Documents\WaveMetrics\Igor Pro 6 User Files\Igor Extensions.
 4. Optional: Put PPT Help.ihf and SetWindowExt Help.ipf or their shortcuts into the Igor Help Files folder, which is normally located at My Documents\WaveMetrics\Igor Pro 6 User Files\Igor Help Files.
 5. Restart Igor Pro.
+
+How to use:
 
 
 
