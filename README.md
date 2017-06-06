@@ -41,6 +41,7 @@ Examples:
 3. Set target wave0 as a string of name of a wave in the current data folder (eg. "wave0"), and then press "Disp" button in the Gen tab. You can display the target wave in a new graph.
 4. Set target window as a string of the name of existing window for example "Graph0" and set target wave0 as a string of name of a wave in the current data folder (eg. "wave0"). After that press "ATG" button in the Gen tab. You can append the target wave to the target window (graph).
 
+[![DOI](https://zenodo.org/badge/93492175.svg)](https://zenodo.org/badge/latestdoi/93492175)
 
 Releases:
 
