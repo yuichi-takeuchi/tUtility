@@ -2,18 +2,19 @@
 #pragma version = 1.00	//by Yuichi Takeuchi 120124
 #pragma IgorVersion = 6.1	//Igor Pro 6.1 or later
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// This procedure (ytUtilityGUI) gives the general purpose GUI (control panel) with necessory library.
-// This is written by Yuichi Takeuchi PhD and mainly used for analyses of in vitro patch-clamp recordings.
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// This procedure (tUtility) offers the general purpose GUI (control panel) with necessory library.
+// This is written by Yuichi Takeuchi PhD and mainly used for analyses and figure preparation of in vitro patch-clamp recordings.
+// But it can be utilized for other analyses including in vivo intra- and extracellular recordings, calcium imagings etc.
 //
-// Claims to Yuichi Takeuchi, Department of Physiology, University of Szeged, Hungary
+// Claims to Yuichi Takeuchi PhD, Department of Physiology, University of Szeged, Hungary
 // Email: yuichi-takeuchi@umin.net
 // 
 // Dependency:
-// Several functions depend on the follwing libraries.
+// Several functions depend on the following libraries.
 // SetWindowExt.XOP (http://fermi.uchicago.edu/freeware/LoomisWood/SetWindowExt.shtml)
 // PPT.XOP (http://www.mpibpc.mpg.de/groups/neher/index.php?page=software)
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Menu "Utilities"
 	"NewControlPanel", t_NewControlPanel() //Display Main Control Panel
