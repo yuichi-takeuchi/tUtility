@@ -1,6 +1,6 @@
 # tUtility
 This procedure (tUtility) offers a GUI (control panel) for general purpose analyses with necessory library.
-This is written for analyses and figure preparation of in vitro patch-clamp recordings.
+It is written for analyses and figure preparation of in vitro patch-clamp data.
 But it can be utilized for other analyses including in vivo intra- and extracellular recordings, calcium imagings etc.
 
 ## Getting Started
