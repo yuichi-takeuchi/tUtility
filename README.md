@@ -46,7 +46,9 @@ Releases:
 
 Ver 1.0.0, 2017/06/xx
 
-tUtility has been used for the following references:
+
+
+tUtility has been used for the following works:
 
 Nagumo Y, Takeuchi Y, Imoto K, Miyata M (2011) Synapse- and subtype-specific modulation of synaptic transmission by nicotinic acetylcholine receptors in the ventrobasal thalamus. Neurosci Res 69:203-213.
 
