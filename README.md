@@ -44,8 +44,7 @@ Examples:
 
 Releases:
 
-Ver 1.0.0, 2017/06/xx
-
+Ver 1.0.0, 2017/06/06
 
 
 tUtility has been used for the following works:
