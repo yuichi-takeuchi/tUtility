@@ -13,10 +13,8 @@ This code has been tested in Igor Pro version 6.3.7.2. for Windows and supposed 
 Dependency:
 
 Several functions depend on the following libraries.
-
-PPT.XOP (http://www.mpibpc.mpg.de/groups/neher/index.php?page=software)
-
-SetWindowExt.XOP (http://fermi.uchicago.edu/freeware/LoomisWood/SetWindowExt.shtml)
+1. PPT.XOP (http://www.mpibpc.mpg.de/groups/neher/index.php?page=software)
+2. SetWindowExt.XOP (http://fermi.uchicago.edu/freeware/LoomisWood/SetWindowExt.shtml)
 
 How to install:
 1. Install Igor Pro 6.1 or later.
