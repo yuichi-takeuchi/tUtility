@@ -24,7 +24,7 @@ This code has been tested in Igor Pro version 6.3.7.2. for Windows and supposed 
 * The ControlPanel window can be minimized and recall by "DisplayControlPanel" in tUtility of Menu.
 * The sorce code for callback functions for the control panel can be found in the GlobalProcedure.ipf, which can be called by "GlobalProcedure.ipf" in tUtility of Menu.
 
-### principle
+### Principle
 There are two tab groups on the control panel. The upper group includes "V&S (Variable & String)" tab and JW tab. 02-04 tabs are under constructions. The lower group includes "Gen (General)", "Edit", "Analy (Analysis)", "CC (Current Clamp)", "VCA (Voltage Clamp Analysis)", "TCA (Time Course Analysis)". Buttons on Gen tab generally exert cosmetic things on existing waves (eg. display). Buttons on the edit tab may modify existing waves: make, duplicate, rename, kill, concatenate waves. Buttons on the Analy tab couduct statistical procedures: average waves on the target wave list etc. Controls on the CC tab are used to analyze current clamp data: action potential detection, measurement of action potential amplitudes etc. Controls on the VCA tab is used to analyze voltage clamp data especially evoked EPSC or IPSCs: measurement of PSC amplitude and decay time etc. Controls on the TCA are used to analyze longitudinal data of evoked synaptic currents or potentials etc.
 
 ### The principle of usage
