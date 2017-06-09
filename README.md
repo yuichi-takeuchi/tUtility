@@ -6,7 +6,7 @@ But it can be utilized for other analyses including in vivo intra- and extracell
 ## Getting Started
 
 ### Prerequisites
-Several functions depend on the following libraries.
+* IGOR Pro 6 (https://www.wavemetrics.com/)
 * PPT.XOP (http://www.mpibpc.mpg.de/groups/neher/index.php?page=software)
 * SetWindowExt.XOP (http://fermi.uchicago.edu/freeware/LoomisWood/SetWindowExt.shtml)
 
