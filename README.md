@@ -6,7 +6,7 @@ But it can be utilized for other analyses including in vivo intra- and extracell
 ## Getting Started
 
 ### Prerequisites
-* IGOR Pro 6 (https://www.wavemetrics.com/)
+* Igor Pro 6 (https://www.wavemetrics.com/)
 * PPT.XOP (http://www.mpibpc.mpg.de/groups/neher/index.php?page=software)
 * SetWindowExt.XOP (http://fermi.uchicago.edu/freeware/LoomisWood/SetWindowExt.shtml)
 
@@ -49,7 +49,7 @@ We use [SemVer](http://semver.org/) for versioning.
 ## Authors
 * **Yuichi Takeuchi PhD** - *Initial work* - [GitHub](https://github.com/yuichi-takeuchi)
 * Affiliation: Department of Physiology, University of Szeged, Hungary
-* E-mail: yuichi-takeuchi@umin.net
+* E-mail: takeuchi.yuichi@med.u-szeged.hu
 
 ## License
 This project is licensed under the MIT License.
