@@ -8,7 +8,7 @@ But it can be utilized for other analyses including in vivo intra- and extracell
 ### Prerequisites
 * Igor Pro 6 (https://www.wavemetrics.com/)
 * PPT.XOP (http://www.mpibpc.mpg.de/groups/neher/index.php?page=software)
-* SetWindowExt.XOP (http://fermi.uchicago.edu/freeware/LoomisWood/SetWindowExt.shtml)
+* SetWindowExt.XOP (https://github.com/yuichi-takeuchi/SetWindowExt)
 
 This code has been tested in Igor Pro version 6.3.7.2. for Windows and supposed to work in Igor Pro 6.1 or later.
 
@@ -48,8 +48,6 @@ We use [SemVer](http://semver.org/) for versioning.
 
 ## Authors
 * **Yuichi Takeuchi PhD** - *Initial work* - [GitHub](https://github.com/yuichi-takeuchi)
-* Affiliation: Department of Physiology, University of Szeged, Hungary
-* E-mail: takeuchi.yuichi@med.u-szeged.hu
 
 ## License
 This project is licensed under the MIT License.
@@ -60,7 +58,8 @@ This project is licensed under the MIT License.
 
 ## References
 tUtility has been used for the following works:
-* Nagumo Y, Takeuchi Y, Imoto K, Miyata M (2011) Synapse- and subtype-specific modulation of synaptic transmission by nicotinic acetylcholine receptors in the ventrobasal thalamus. Neurosci Res 69:203-213.
-* Takeuchi Y, Yamasaki M, Nagumo Y, Imoto K, Watanabe M, Miyata M (2012) Rewiring of afferent fibers in the somatosensory thalamus of mice caused by peripheral sensory nerve transection. J Neurosci 32:6917-6930.
-* Takeuchi Y, Asano H, Katayama Y, Muragaki Y, Imoto K, Miyata M (2014) Large-scale somatotopic refinement via functional synapse elimination in the sensory thalamus of developing mice. J Neurosci 34:1258-1270.
-* Takeuchi Y, Osaki H, Yagasaki Y, Katayama Y, Miyata M (2017) Afferent Fiber Remodeling in the Somatosensory Thalamus of Mice as a Neural Basis of Somatotopic Reorganization in the Brain and Ectopic Mechanical Hypersensitivity after Peripheral Sensory Nerve Injury. eNeuro 4:e0345-0316.
+- Nagumo Y, Takeuchi Y, Imoto K, Miyata M (2011) Synapse- and subtype-specific modulation of synaptic transmission by nicotinic acetylcholine receptors in the ventrobasal thalamus. Neurosci Res 69: 203-213.
+- Takeuchi Y, Yamasaki M, Nagumo Y, Imoto K, Watanabe M, Miyata M (2012) Rewiring of afferent fibers in the somatosensory thalamus of mice caused by peripheral sensory nerve transection. J Neurosci 32: 6917-6930.
+- Takeuchi Y, Asano H, Katayama Y, Muragaki Y, Imoto K, Miyata M (2014) Large-scale somatotopic refinement via functional synapse elimination in the sensory thalamus of developing mice. J Neurosci 34: 1258-1270.
+- Takeuchi Y, Osaki H, Yagasaki Y, Katayama Y, Miyata M (2017) Afferent Fiber Remodeling in the Somatosensory Thalamus of Mice as a Neural Basis of Somatotopic Reorganization in the Brain and Ectopic Mechanical Hypersensitivity after Peripheral Sensory Nerve Injury. eNeuro 4: e0345-0316.
+- Nagumo Y, Ueta Y, Nakayama H, Osaki H, Takeuchi Y, Uesaka N, Kano M, Miyata M (2020) Tonic GABAergic inhibition is essential for nerve injury-induced afferent remodeling in the somatosensory thalamus and associated ectopic sensations. Cell Rep 31: 107797.
